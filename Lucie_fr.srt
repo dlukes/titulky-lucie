@@ -9,7 +9,7 @@ Lucie
 
 3
 00:00:20,440 --> 00:00:28,780
-Distribution
+Avec
 
 4
 00:00:30,040 --> 00:00:32,620
@@ -98,7 +98,7 @@ Blania fait des photos pour eux.
 
 23
 00:02:12,500 --> 00:02:16,490
-- Où tu l'a vu?
+- Où tu l'as vu?
 - Je ne sais pas. Dans des tabacs ?
 
 24
@@ -131,7 +131,7 @@ Sympa, hein ?
 30
 00:02:38,720 --> 00:02:41,380
 Si, ça vaut le coup.
-Tu sais ce que je ferai...
+Tu sais ce que je ferais...
 
 31
 00:02:41,480 --> 00:02:44,720
@@ -236,7 +236,7 @@ Comment tu voudrais te suicider ?
 
 52
 00:04:08,850 --> 00:04:12,010
-Désolé, mais ce n'est pas suicide, ça.
+Désolé, mais ce n'est pas du suicide, ça.
 
 53
 00:04:12,110 --> 00:04:16,940
@@ -269,8 +269,8 @@ je prendrais des médicaments.
 
 59
 00:04:41,080 --> 00:04:44,560
-Ce n'est pas top,
-mon père en a pris deux fois.
+Ouais, je sais pas...
+Mon père, il en a pris deux fois.
 
 60
 00:04:44,760 --> 00:04:45,800
@@ -297,21 +297,21 @@ c'est tout.
 
 65
 00:05:01,640 --> 00:05:05,700
-- Où tu l'as vu, la série ?
+- Où tu l'as vue, la série ?
 - Je l'ai téléchargée sur internet.
 
 66
 00:05:06,140 --> 00:05:08,900
-- Comment tu as réussi ?
-- Sans souci.
+- Y'avait moyen ?
+- Sans problème.
 
 67
 00:05:09,800 --> 00:05:13,200
-Moi, je préfère des films aux séries.
+Mais je préfère les films aux séries.
 
 68
 00:05:13,520 --> 00:05:17,380
-- Je préfère le théâtre.
+- Moi je préfère le théâtre.
 - Parce que c'est vivant ?
 
 69
@@ -435,7 +435,7 @@ on avait des télés à la maison.
 94
 00:06:57,850 --> 00:07:02,680
 - Sérieux ?
-- Ils pensent qu'on est des bashi-bouzouks.
+- Ils nous prennent pour des aborigènes.
 
 95
 00:07:02,830 --> 00:07:05,260
@@ -444,7 +444,7 @@ Des primitifs arriérés.
 96
 00:07:06,010 --> 00:07:10,070
 Attends, tu penses qu'ils sont primitifs,
-les bashi-bouzouks  ?
+les aborigènes ?
 
 97
 00:07:12,440 --> 00:07:15,580
@@ -453,16 +453,16 @@ Quand même, ils courent
 
 98
 00:07:16,260 --> 00:07:18,580
-Ben non, mais c'est une culture différente.
+OK, mais c'est une culture différente.
 
 99
 00:07:22,020 --> 00:07:26,590
 Ça dépend énormément du contexte
-dans lequel tu regardes la culture.
+dans lequel tu les regardes.
 
 100
 00:07:27,040 --> 00:07:31,480
-On n'a pas droit de dire
+On n'a pas le droit de dire
 qu'ils sont plus arriérés que nous.
 
 101
@@ -472,7 +472,7 @@ Je ne vois pas ce qui te donne le droit.
 101
 00:07:35,720 --> 00:07:39,120
 Eh, c'est quand même pas compliqué
-de cueillir des racines et de les bouffer.
+de trouver des racines et de les bouffer.
 
 102
 00:07:39,380 --> 00:07:41,240
@@ -538,8 +538,8 @@ Pourquoi tu le compares au christianisme ?
 
 115
 00:08:45,280 --> 00:08:50,640
-Surtout ici en Tchéquie,
-sans le pays le plus athée au monde...
+Surtout ici en Tchéquie, sans doute
+le pays le plus athée au monde...
 
 116
 00:08:51,800 --> 00:08:55,600
@@ -549,7 +549,7 @@ culture euro-américaine, moi.
 117
 00:08:56,980 --> 00:09:02,200
 Alors toi, tu n'acceptes même pas
-des échanges d'avis ou de cultures...
+des échanges d'avis entre cultures...
 
 118
 00:09:11,240 --> 00:09:14,400
@@ -578,7 +578,7 @@ mais je me lève tôt demain matin.
 123
 00:09:30,730 --> 00:09:34,280
 Je me disais juste,
-comme on est avec nos mecs, là,
+comme les gars sont là,
 
 124
 00:09:34,640 --> 00:09:37,420
@@ -601,8 +601,8 @@ Pourquoi ?
 
 128
 00:09:44,740 --> 00:09:49,900
-Rien. Juste qu'il est sympa. Peut-être
-tu peux te coucher plus tard. C'est tout.
+Rien. Juste qu'il est sympa. Dommage
+que t'ailles te coucher si tôt. C'est tout.
 
 129
 00:09:52,020 --> 00:09:55,700
@@ -645,15 +645,15 @@ ni Jésus, ni marieuse.
 137
 00:10:26,800 --> 00:10:30,260
 J'organise une soirée
-pour les gens qui ne se connaissent pas...
+pour des gens qui ne se connaissent pas...
 
 138
 00:10:30,460 --> 00:10:33,580
-et qu'ils peuvent se rencontrer ici.
+pour qu'ils puissent faire connaissance ici.
 
 139
 00:10:33,880 --> 00:10:36,020
-Je ne suis pas marieuse du tout.
+Je ne fais pas du tout marieuse.
 
 140
 00:10:36,810 --> 00:10:41,190
@@ -682,7 +682,7 @@ lors de mon passage à Lviv.
 145
 00:10:59,400 --> 00:11:05,100
 Il m'a confié quelques souvenirs
-fort intéressants sur Shostakovitch.
+fort intéressants sur Chostakovitch.
 
 146
 00:11:05,190 --> 00:11:08,300
@@ -701,8 +701,8 @@ Des rumeurs ? Vous avez parlé de quoi ?
 
 149
 00:11:18,500 --> 00:11:23,240
-Des rumeurs ? Ce n'était pas
-tout à fait des rumeurs.
+Des rumeurs ? Ce n'étaient pas
+vraiment des rumeurs.
 
 150
 00:11:23,350 --> 00:11:27,430
@@ -711,7 +711,7 @@ pertinents pour des musicologues.
 
 151
 00:11:28,080 --> 00:11:32,880
-Je ne veux pas chercher quelqu'un. Je pense
+Je ne veux pas chercher. Je pense
 que ça viendra tout seul au bon moment.
 
 152
@@ -746,7 +746,7 @@ tu ne vivras pas jusqu'à quatre-vingt ans...
 
 158
 00:12:01,680 --> 00:12:04,660
-- Mais tu veux qui, alors ?
+- Mais tu veux quoi, alors ?
 - Un compagnon.
 
 159
@@ -762,7 +762,6 @@ qui vient d'Ukraine justement.
 161
 00:12:13,500 --> 00:12:17,980
 Mais elle se présente toujours comme Russe.
-"Suis Russe, suis Russe."
 
 162
 00:12:19,240 --> 00:12:24,370
@@ -809,7 +808,7 @@ mais je te le dis - c'est l'amour.
 
 171
 00:12:59,350 --> 00:13:03,220
-- Ça fait quoi, un mois que vous êtes ensemble ?.
+- Ça fait quoi, un mois que vous êtes ensemble ?
 - Et alors ?
 
 172
@@ -838,8 +837,8 @@ et ce qu'il dégage et tout. Je le sais, moi.
 
 177
 00:13:26,070 --> 00:13:32,160
-Je jouais de la basse au conservatoire
-et j'en fais encore comme passe-temps.
+J'ai suivi des cours de contrebasse
+et j'en fais encore en loisir.
 
 178
 00:13:32,480 --> 00:13:35,540
@@ -862,7 +861,7 @@ Vous jouez quoi, comme style ?
 
 182
 00:13:49,200 --> 00:13:54,530
-- C'est un bon gars, Milan. Un original.
+- Il est bien, Milan. C'est un original.
 - Et vous vous connaissez comment ?
 
 183
@@ -945,7 +944,7 @@ qui te fais le plus de mal.
 
 199
 00:15:11,860 --> 00:15:13,640
-Hmm...
+Bon...
 
 200
 00:15:19,750 --> 00:15:23,840
@@ -959,7 +958,7 @@ Hmm...
 
 202
 00:15:28,460 --> 00:15:31,380
-Ce sont les bashi-bouzouks
+Ce sont les aborigènes
 qui t'ont mis en colère, hein ?
 
 203
@@ -988,7 +987,7 @@ elle n'avait pas d'estime pour soi.
 
 208
 00:15:56,100 --> 00:15:59,300
-Ça va pas. Moi aussi, je pourrai
+Ça va pas. Moi aussi, je pourrais
 aller au conservatoire en disant :
 
 209
@@ -1012,7 +1011,7 @@ Comme toi, c'est ça ?
 213
 00:16:13,760 --> 00:16:20,800
 En fait, chacun vit dans son propre monde.
-Ça serait con de vivre dans un monde étranger.
+Ça serait con de vivre dans le monde de quelqu'un d'autre.
 
 214
 00:16:23,600 --> 00:16:27,100
@@ -1072,7 +1071,7 @@ de faire ces choses-là.
 225
 00:17:12,560 --> 00:17:16,960
 Donizetti, on connait ses opéras...
-Après, c'est vrai qu'elles sont magnifiques.
+Après, c'est vrai qu'ils sont magnifiques.
 
 226
 00:17:18,280 --> 00:17:23,780
@@ -1087,7 +1086,7 @@ Après, c'est vrai qu'elles sont magnifiques.
 228
 00:17:27,710 --> 00:17:31,600
 - Je ne vais pas jouer en pleine nuit.
-- C'est vrai qu'il fait un peu tard.
+- C'est vrai qu'il se fait un peu tard.
 
 229
 00:17:36,940 --> 00:17:41,280
@@ -1159,7 +1158,7 @@ quand tu viens, quand tu pars.
 243
 00:19:54,100 --> 00:19:55,880
 - Il est parti ?
-- Hmm...
+- Ben oui...
 
 244
 00:19:56,950 --> 00:20:01,060
@@ -1182,7 +1181,7 @@ parce qu'il se lève tôt.
 
 248
 00:20:15,540 --> 00:20:16,540
-Bon.
+Ah, OK.
 
 249
 00:20:19,530 --> 00:20:24,140
@@ -1196,7 +1195,7 @@ C'est cool qu'il aille dormir chez lui.
 
 251
 00:20:33,190 --> 00:20:37,190
-- Il fait encore des études ?
+- Donc il étudie encore ?
 - Oui, il est doctorant.
 
 252
@@ -1210,7 +1209,7 @@ Du coup, il doit donner des cours.
 
 254
 00:20:44,340 --> 00:20:45,380
-Ça roule.
+OK.
 
 255
 00:20:46,380 --> 00:20:47,620
@@ -1218,7 +1217,7 @@ Santé !
 
 256
 00:20:50,800 --> 00:20:56,200
-Si tu joues de la flûte, ça veur dire
+Si tu joues de la flûte, ça veut dire
 que tu as l'oreille parfaite ?
 
 257
@@ -1228,7 +1227,7 @@ que tu as l'oreille parfaite ?
 
 258
 00:20:59,700 --> 00:21:03,640
-Non, je ne l'ai pas. Il y avait
+Non, je ne l'ai pas. Il y a
 que Mozart qui l'avait. C'est super rare.
 
 259
@@ -1253,7 +1252,7 @@ même s'il l'était.
 
 263
 00:21:26,950 --> 00:21:30,810
-Hmm, c'est vrai. C'est pareil
+C'est vrai. C'est pareil
 avec les sourds-muets.
 
 264
@@ -1292,7 +1291,7 @@ C'est comme si c'était médicinal.
 271
 00:22:07,760 --> 00:22:11,160
 Une fois ça m'est arrivé.
-Je suis allé voir ma tante...
+Je suis allée voir ma tante...
 
 272
 00:22:11,540 --> 00:22:14,580
@@ -1301,7 +1300,7 @@ que j'aime et que je respecte beaucoup.
 273
 00:22:14,930 --> 00:22:19,350
 On est comme connectées.
-C'est elle qui m'a montré la flûte.
+C'est elle qui m'a introduite à la flûte.
 
 274
 00:22:19,700 --> 00:22:23,440
@@ -1319,8 +1318,8 @@ Je me suis dit que j'allais l'aider.
 
 277
 00:22:32,790 --> 00:22:37,380
-Je lui ai dis de se coucher sur le lit.
-Elle s'est allongée et a montré le ventre.
+Je lui ai dit de se coucher sur le lit.
+Elle s'est allongée, retroussant sa chemise.
 
 278
 00:22:37,490 --> 00:22:41,740
@@ -1364,7 +1363,7 @@ Comme si quelque chose émanait de ma main.
 
 286
 00:23:20,820 --> 00:23:26,320
-Quand j'ai fini, ma tante restait bouche bée
+Quand j'ai fini, ma tante est restée bouche bée
 parce qu'elle n'avait plus mal au ventre.
 
 287
@@ -1393,8 +1392,8 @@ et se guérir mutuellement.
 
 292
 00:23:54,380 --> 00:24:01,380
-Juste une question bête,
-est-ce que je peux fumer ici ?
+Juste une question bête, est-ce qu'il y a
+un endroit où je peux fumer ?
 
 293
 00:24:01,930 --> 00:24:07,820
@@ -1431,7 +1430,7 @@ et je l'ai allumée.
 
 300
 00:24:46,980 --> 00:24:52,240
-Et on m'a dit : "Non, mais tu crapotes,
+Et ils me disent : "Non, mais tu crapotes,
 tu dois fumer comme ça."
 
 301
@@ -1514,17 +1513,17 @@ que je l'écoutais pas,
 316
 00:26:22,580 --> 00:26:25,130
 que je l'aimais pas,
-que je m'intéressait pas à elle.
+que je m'intéressais pas à elle.
 
 317
 00:26:26,030 --> 00:26:31,270
 J'ai essayé de lui expliquer plusieurs fois.
-Ça marchait pendant un certain temps...
+Ça a marché pendant un certain temps...
 
 318
 00:26:31,280 --> 00:26:36,640
 et puis c'est reparti de nouveau.
-Elle ne pouvait pas s'en empêcher.
+Elle ne pouvait pas s'empêcher.
 
 319
 00:26:37,220 --> 00:26:41,160
@@ -1562,7 +1561,7 @@ exemplaire, mais je faisais des efforts.
 326
 00:27:16,850 --> 00:27:21,580
 - Et ça va mieux maintenant ?
-- Ah, ouais. Juste grâce à ce déménagement.
+- Ah, ouais. Mais c'est grâce à ce déménagement.
 
 327
 00:27:21,820 --> 00:27:22,820
@@ -1596,7 +1595,7 @@ Je sais pas...
 333
 00:27:48,700 --> 00:27:54,650
 - C'est ça le problème de notre génération.
-- Comment ça de nôtre génération ?
+- Comment ça de notre génération ?
 
 334
 00:27:55,740 --> 00:28:01,500
@@ -1635,7 +1634,7 @@ c'est une vraie mégère."
 
 341
 00:28:36,040 --> 00:28:40,960
-Non -  "ma mère dégénère".
+Non - "ma mère dégénère".
 C'est ça. Une connerie quoi.
 
 342
@@ -1651,7 +1650,7 @@ ils couraient pieds nus et seuls,"
 344
 00:28:48,990 --> 00:28:53,000
 "ils n'avaient que la fuite et eux-mêmes,
-ils n'ont pas trouvé la porte."
+ils ne purent pas trouver de porte."
 
 345
 00:28:53,960 --> 00:28:56,160
@@ -1670,7 +1669,7 @@ ils n'ont pas trouvé la porte."
 
 348
 00:29:07,310 --> 00:29:11,120
-- Je vois.
+- Vas-y, prends-en une.
 - J'en prendrais bien une si ça ne te dérange pas.
 
 349
@@ -1733,7 +1732,7 @@ Maman est là !
 362
 00:29:49,360 --> 00:29:53,490
 Non, déconne pas !
-C'est moi qui doit le dire !
+C'est moi qui dois le dire !
 
 363
 00:29:55,200 --> 00:29:56,640
@@ -1784,7 +1783,7 @@ De très loin, quoi.
 
 373
 00:30:30,700 --> 00:30:34,250
-- Comment ça, de loin ? Comme les Starts ?
+- Comment ça, de loin ? Pas des Starts, quoi ?
 - Pas du tout.
 
 374
@@ -1817,17 +1816,17 @@ C'est bon. Demain j'ai rien.
 380
 00:30:59,010 --> 00:31:03,500
 Parce que si j'avais quelque chose,
-je n'en prendrai pas, impossible.
+je n'en prendrais pas, impossible.
 
 381
 00:31:04,060 --> 00:31:07,520
 - Avant un concert ?
-- J'y arriverais jamais.
+- J'arriverais jamais à jouer sinon.
 
 382
 00:31:08,130 --> 00:31:13,230
 - Tes poumons doivent être pleins et prêts.
-- Il faut surtout une bonne respiration, non ?
+- Il faut surtout une bonne respiration, hein ?
 
 383
 00:31:14,360 --> 00:31:18,520
@@ -1870,7 +1869,7 @@ fumes pour la première fois.
 391
 00:31:48,000 --> 00:31:52,400
 - Là, il y a du vent, ça marche pas.
-- Je n'arrive pas.
+- Je n'y arrive pas.
 
 392
 00:31:52,660 --> 00:31:54,660
@@ -1884,7 +1883,7 @@ Tu sais faire le tigre ?
 394
 00:31:58,500 --> 00:32:01,700
 Oui, je sais.
-C'est mon tonton qui le faisait.
+Mon tonton en est spécialiste.
 
 395
 00:32:07,090 --> 00:32:09,360
@@ -1892,7 +1891,7 @@ Mais non... Ça y est, ça y est !
 
 396
 00:32:10,870 --> 00:32:15,090
-- Parait que tu risques de te brûler les narines.
+- Paraît que tu risques de te brûler les narines.
 - Tu penses ?
 
 397
@@ -1926,7 +1925,7 @@ Que tout était cool.
 
 403
 00:32:43,440 --> 00:32:47,830
-Quand tu parlait de Krumlov,
+Quand tu parlais de Krumlov,
 tout semblait aller bien.
 
 404
@@ -1935,13 +1934,13 @@ Ouais, mais c'était au début, ça.
 
 405
 00:32:58,360 --> 00:33:02,480
-- De toute façon, tu ne sais pas ce qu'il y a derrière.
+- De toute façon, tu ne connais pas les détails.
 - C'est clair.
 
 406
 00:33:09,740 --> 00:33:15,320
 Petr et Lucie.
-C'est romantique, non? Comme dans Roland.
+C'est romantique, non? Comme dans Rolland.
 
 407
 00:33:15,680 --> 00:33:16,960
@@ -1973,7 +1972,7 @@ sur les compositeurs ukrainiens, en plus.
 413
 00:33:45,240 --> 00:33:49,880
 C'est étonnant, non ?
-Qu'il y a des compositeurs là-bas.
+Qu'il y ait des compositeurs là-bas.
 
 414
 00:34:02,650 --> 00:34:04,780
@@ -1986,23 +1985,23 @@ Tiens, c'est quoi cette photo ?
 
 416
 00:34:10,940 --> 00:34:14,270
-Tu as mis son visage
+Tu as copié collé son visage
 avec Photoshop, c'est ça ?
 
 417
 00:34:14,480 --> 00:34:17,980
-- Non, elle portait ça à un événement.
-- Elle portait ça ?
+- Non, c'est vraiment elle, à un événement.
+- C'est vraiment elle ?
 
 418
 00:34:18,130 --> 00:34:21,200
-Elle m'a dit ce que c'était,
+Elle m'avait expliqué,
 je ne me souviens plus.
 
 419
 00:34:21,310 --> 00:34:26,270
 C'était une rencontre avec les flics.
-Elle est tellement curieuse.
+Elle est vachement curieuse.
 
 420
 00:34:26,920 --> 00:34:30,400
@@ -2021,7 +2020,7 @@ On parle jamais de ces choses.
 
 423
 00:34:49,630 --> 00:34:52,470
-On parle jamais de nos relations.
+On parle jamais de nos partenaires.
 
 424
 00:34:52,780 --> 00:34:57,310
@@ -2039,18 +2038,18 @@ Moi, j'avais des magazines pour les filles.
 
 427
 00:35:13,940 --> 00:35:19,660
-- T'en parlais, toi, avec ton père ?
-- Mes parents ont divorcé...
+- T'en a parlé, toi, avec ton père ?
+- Ben mes parents ont divorcé...
 
 428
 00:35:20,250 --> 00:35:25,650
-avant que je sois dans l'âge
-de parler de relations.
+avant que j'aie l'âge de m'intéresser
+à ces choses-là, donc...
 
 429
 00:35:30,220 --> 00:35:33,700
 Tu penses qu'on peut avoir
-une relation pour toute la vie ?
+un partenaire pour toute la vie ?
 
 430
 00:35:35,160 --> 00:35:37,880
@@ -2063,7 +2062,7 @@ Moi aussi, je suis un cygne.
 432
 00:35:43,580 --> 00:35:49,180
 Je ne voudrais pas être comme mon père.
-Si j'ai des enfants, je les connaîtrai.
+Si j'ai des enfants, je voudrais les connaître.
 
 433
 00:35:50,070 --> 00:35:52,780
@@ -2078,11 +2077,11 @@ ce qu'ils font.
 435
 00:35:57,020 --> 00:35:59,620
 Pas juste payer
-des pensions alimentaires.
+une pension alimentaire.
 
 436
 00:35:59,860 --> 00:36:01,950
-C'est horrible ça.
+C'est vrai que c'est affreux.
 
 437
 00:36:15,340 --> 00:36:19,300
@@ -2102,12 +2101,12 @@ Je m'en fous de l'avenir, moi.
 440
 00:36:46,190 --> 00:36:49,880
 Je ne suis pas futuriste. Ce qui m'intéresse,
-c'est ce qu'il y a maintenaint.
+c'est ce qu'il y a maintenant.
 
 441
 00:36:50,850 --> 00:36:55,930
-- Dans son cas, plutôt ce qu'il n'y a pas.
-- Qu'est-ce qu'il n'y a pas ?
+- Ou dans son cas, plutôt ce qui manque.
+- Qu'est-ce qui manque ?
 
 442
 00:36:57,470 --> 00:37:00,320
@@ -2115,8 +2114,8 @@ Il ne m'aime pas. C'est ça le souci.
 
 443
 00:37:01,330 --> 00:37:07,060
-Comment tu peux dire ça ?
-Il ne sait simplement pas l'exprimer peut-être.
+T'es sûre ? Peut-être qu'il
+ne sait pas bien l'exprimer.
 
 444
 00:37:09,720 --> 00:37:13,230
@@ -2130,7 +2129,7 @@ Je parle de "je t'aime".
 
 446
 00:37:18,460 --> 00:37:22,020
-D'accord, mais... Enfin..
+D'accord, mais... Enfin...
 
 447
 00:37:29,600 --> 00:37:32,580
@@ -2143,8 +2142,8 @@ C'est son anniversaire dans quinze jours.
 
 449
 00:37:40,490 --> 00:37:46,060
-Je sais que ça paraîtra ridicule.
-C'est aussi la première fois que je l'ai fait.
+Ça va sûrement te paraître ridicule.
+C'est aussi la première fois que je l'aie fait.
 
 450
 00:37:47,680 --> 00:37:51,200
@@ -2165,7 +2164,7 @@ C'est une exception pour moi.
 
 454
 00:38:04,700 --> 00:38:10,980
-- Tu l'as composée juste comme ça ?
+- Tu l'as composé juste comme ça ?
 - Pas juste comme ça, par amour pour lui.
 
 455
@@ -2178,7 +2177,7 @@ Je ne suis pas compositrice.
 
 457
 00:38:20,530 --> 00:38:23,170
-Ce n'est pas encore terminé.
+Et je n'ai pas encore terminé.
 
 458
 00:38:23,530 --> 00:38:26,650
@@ -2245,17 +2244,17 @@ C'est joli.
 
 472
 00:40:18,120 --> 00:40:20,800
-- De la flûte ?
+- Pour la flûte ?
 - Celui que tu as composé.
 
 473
 00:42:27,220 --> 00:42:28,360
-Encore une fois.
+Attends, je reprends.
 
 474
 00:43:19,400 --> 00:43:23,960
-Ça s'arrête là. Je disais que
-ce n'était pas encore achevé.
+Ça s'arrête là. Je t'ai dit que
+ce n'était pas encore fini.
 
 475
 00:43:27,200 --> 00:43:33,780
@@ -2275,7 +2274,7 @@ Tu crois ? J'espère que
 478
 00:43:44,380 --> 00:43:47,420
 J'y ai vraiment mis tout
-ce que je sens pour lui.
+ce que je ressens pour lui.
 
 479
 00:43:48,960 --> 00:43:50,400
@@ -2297,7 +2296,7 @@ Je pense que probablement oui.
 
 483
 00:44:10,690 --> 00:44:15,460
-- C'est dommage que tu ne l'as pas fini.
+- C'est dommage que tu ne l'aies pas fini.
 - Je ne le finirai pas.
 
 484
@@ -2306,7 +2305,7 @@ Je laisse tomber les relations sérieuses.
 
 485
 00:44:20,100 --> 00:44:23,160
-Je vais me trouver un type
+Je vais me trouver des mecs
 pour le sexe et la détente et puis c'est tout.
 
 486
@@ -2326,7 +2325,7 @@ Avant de trancher la question.
 
 489
 00:44:46,980 --> 00:44:48,980
-- Tu as quelqu'un toi ?
+- Et toi, t'as quelqu'un toi ?
 
 490
 00:44:50,440 --> 00:44:55,770
@@ -2340,18 +2339,18 @@ C'est un peu compliqué avec moi en ce moment.
 
 492
 00:45:01,340 --> 00:45:05,850
-Quand Petr disait
+Quand Petr a dit
 qu'il ne voulait pas s'engager...
 
 493
 00:45:06,980 --> 00:45:11,790
-- Attends, tu as parlé de nous avec Petr ?
-- Non, mais enfin c'est toi qui le disais.
+- Attends, tu as parlé de Petr et moi avec lui ?
+- Non, mais enfin c'est toi qui l'as dit.
 
 494
 00:45:14,380 --> 00:45:17,520
 - D'accord.
-- Je le comprends un peu...
+- En tout cas, je le comprends un peu...
 
 495
 00:45:17,980 --> 00:45:22,640
@@ -2396,7 +2395,7 @@ C'est quelque chose qui peut aider.
 
 504
 00:46:08,740 --> 00:46:10,840
-Tu as beaucoup d'exemples.
+Il y a beaucoup d'exemples.
 
 505
 00:46:11,260 --> 00:46:15,580
@@ -2410,7 +2409,7 @@ d'être en bonne santé et il guérira.
 
 507
 00:46:24,820 --> 00:46:30,370
-Tu a raison. Si ça peut aider,
+Tu as raison. Si ça peut aider,
 c'est ça l'essentiel.
 
 508
@@ -2431,7 +2430,7 @@ je me sens un peu soûle.
 511
 00:46:50,550 --> 00:46:57,140
 Je ne dirais pas. C'est plutôt moi
-qui n'a pas tous ses esprits, comme on dit.
+qui n'ai pas tous mes esprits, comme on dit.
 
 512
 00:47:04,260 --> 00:47:08,920
@@ -2450,7 +2449,7 @@ qui n'a pas tous ses esprits, comme on dit.
 
 515
 00:47:22,050 --> 00:47:28,040
-Je n'ai pas dit à Dasha pour la chambre.
+Je n'ai pas prévenu Dasha pour la chambre.
 Il y a ses affaires, c'est un peu con.
 
 516
@@ -2478,7 +2477,7 @@ Tu ne regardes pas ?
 
 521
 00:48:22,640 --> 00:48:24,100
-J'éteins, ok ?
+J'éteins, OK ?
 
 522
 00:48:55,000 --> 00:48:56,080
@@ -2486,7 +2485,7 @@ Tu dors ?
 
 523
 00:49:46,000 --> 00:49:49,000
-Qu'est-ce qu'il y a ? Ah oui.
+Qu'est-ce qui se passe ? Ah oui.
 
 524
 00:50:20,380 --> 00:50:23,680
@@ -2520,7 +2519,7 @@ On a une répète aujourd'hui...
 
 530
 00:50:52,780 --> 00:50:56,080
-Je dois y être avant.
+Je dois y être en avance.
 Je suis le seul à avoir les clés.
 
 531
@@ -2531,7 +2530,7 @@ Je suis le seul à avoir les clés.
 532
 00:51:01,580 --> 00:51:05,220
 - Blanka est partie aussi.
-- Ah ? Elle n'est pas là ?
+- Ah ? Elle n'est plus là ?
 
 533
 00:51:05,960 --> 00:51:10,780
@@ -2559,7 +2558,7 @@ Pas de souci. C'est là-bas.
 538
 00:51:30,660 --> 00:51:34,260
 - Les serviettes sont sur la machine.
-- Ok, merci.
+- OK, merci.
 
 539
 00:51:49,320 --> 00:51:55,360
@@ -2573,6 +2572,5 @@ Pas de souci. C'est là-bas.
 
 541
 00:52:03,400 --> 00:52:05,820
-- On s'appellera ?
-- Ouais.
-
+- On s'appelle ?
+- Oui oui...
