@@ -104,12 +104,12 @@ Blania fait des photos pour eux.
 24
 00:02:16,490 --> 00:02:20,540
 Mais non, ça ne se vend pas.
-On le donne dans le métro. Gratuitement.
+Tu le prends dans le métro. Gratuitement.
 
 25
 00:02:20,540 --> 00:02:26,450
 Peu importe. Blania a honte
-qu'on le donne au lieu de le vendre.
+qu'on le prenne au lieu de l'acheter.
 
 26
 00:02:26,600 --> 00:02:27,380
@@ -117,8 +117,8 @@ Je peux ?
 
 27
 00:02:27,380 --> 00:02:29,980
-Qu'on le donne.
-C'est un travail comme un autre.
+Ça me gêne pas qu'on le prenne.
+Mais c'est un travail comme un autre.
 
 28
 00:02:34,140 --> 00:02:35,440
@@ -254,7 +254,7 @@ suggérer l'expérience d'un arrêt cardiaque ?
 
 56
 00:04:24,460 --> 00:04:29,740
-Ben moi, je crois que grâce à la foi
+Ben moi, je crois que si grâce à la foi
 les gens peuvent guérir,
 
 57
@@ -553,7 +553,7 @@ des échanges d'avis entre cultures...
 
 118
 00:09:11,240 --> 00:09:14,400
-- Tu cherches quelque chose ?
+- Tu viens chercher quelque chose ?
 - Non, je vais aller me coucher.
 
 119
@@ -653,7 +653,7 @@ pour qu'ils puissent faire connaissance ici.
 
 139
 00:10:33,880 --> 00:10:36,020
-Je ne fais pas du tout marieuse.
+Je ne fais pas du tout ma marieuse.
 
 140
 00:10:36,810 --> 00:10:41,190
@@ -697,12 +697,12 @@ il s'embrouillait un peu, mais...
 148
 00:11:12,660 --> 00:11:17,650
 Qu'est-ce qu'il t'as dit ?
-Des rumeurs ? Vous avez parlé de quoi ?
+Des ragots ? Vous avez parlé de quoi ?
 
 149
 00:11:18,500 --> 00:11:23,240
-Des rumeurs ? Ce n'étaient pas
-vraiment des rumeurs.
+Des ragots ? Ce n'étaient pas
+vraiment des ragots.
 
 150
 00:11:23,350 --> 00:11:27,430
@@ -747,12 +747,12 @@ tu ne vivras pas jusqu'à quatre-vingt ans...
 158
 00:12:01,680 --> 00:12:04,660
 - Mais tu veux quoi, alors ?
-- Un compagnon.
+- Un partenaire.
 
 159
 00:12:05,020 --> 00:12:09,020
 D'accord, Blania, moi aussi
-j'ai un compagnon, mais...
+j'ai un partenaire, mais...
 
 160
 00:12:10,100 --> 00:12:13,060
@@ -889,7 +889,7 @@ Peut-être qu'il voudrait des enfants.
 
 188
 00:14:19,130 --> 00:14:26,000
-On fait des conneries, on se peint...
+On fait des bêtises, on se peint...
 Bref, on fait un vrai show, quoi.
 
 189
@@ -920,7 +920,7 @@ surtout des pigments naturels.
 194
 00:14:47,980 --> 00:14:52,060
 - Pourquoi tu es si renfermée ?
-- Je ne comprends pas.
+- Je ne vois pas de quoi tu parles.
 
 195
 00:14:52,780 --> 00:14:58,030
@@ -963,12 +963,12 @@ qui t'ont mis en colère, hein ?
 
 203
 00:15:39,080 --> 00:15:41,060
-- Une boudeuse ?
+- Elle est vieux jeu ?
 - Mais dans le bon sens.
 
 204
 00:15:41,060 --> 00:15:42,520
-Une bonne boudeuse ?
+Bien vieux jeu ?
 
 205
 00:15:42,740 --> 00:15:46,780
@@ -1006,7 +1006,7 @@ Comme toi, c'est ça ?
 
 212
 00:16:10,780 --> 00:16:12,360
-Ça je connais bien...
+Ça je le sais bien justement...
 
 213
 00:16:13,760 --> 00:16:20,800
@@ -1026,7 +1026,7 @@ en ce moment et c'est tellement beau.
 216
 00:16:33,270 --> 00:16:37,980
 - Qu'est-ce que vous faites ?
-- Une sonate pour piano avec Mme Stankova.
+- Une sonate pour piano avec Hanka Stankova.
 
 217
 00:16:38,170 --> 00:16:43,340
@@ -1185,12 +1185,12 @@ Ah, OK.
 
 249
 00:20:19,530 --> 00:20:24,140
-Tu veux pas encore un peu de vin
+Tu veux encore un peu de vin
 avant d'aller se coucher ?
 
 250
 00:20:24,160 --> 00:20:30,000
-C'est clair, on a une soirée.
+Pourquoi pas, on fait notre soirée.
 C'est cool qu'il aille dormir chez lui.
 
 251
@@ -1446,11 +1446,11 @@ mais j'avais mal au cœur et eux :
 303
 00:25:04,960 --> 00:25:10,640
 Et ils m'en ont proposé une autre
-et puis une autre. J'ai fini par gerber.
+et puis une autre. A la sixième, j'ai gerbé.
 
 304
 00:25:10,880 --> 00:25:16,260
-J'avais tellement mal
+Je me sentais tellement mal
 que j'ai arrêté pendant trois ans.
 
 305
@@ -1483,7 +1483,7 @@ Exactement, t'as tout à fait raison.
 
 311
 00:25:51,580 --> 00:25:55,540
-Je vivais avec maman
+Je vivais avec ma mère
 avant d'emménager ici.
 
 312
@@ -1518,12 +1518,12 @@ que je m'intéressais pas à elle.
 317
 00:26:26,030 --> 00:26:31,270
 J'ai essayé de lui expliquer plusieurs fois.
-Ça a marché pendant un certain temps...
+C'était mieux pendant un certain temps...
 
 318
 00:26:31,280 --> 00:26:36,640
 et puis c'est reparti de nouveau.
-Elle ne pouvait pas s'empêcher.
+Elle ne pouvait pas s'en empêcher.
 
 319
 00:26:37,220 --> 00:26:41,160
@@ -1560,7 +1560,7 @@ exemplaire, mais je faisais des efforts.
 
 326
 00:27:16,850 --> 00:27:21,580
-- Et ça va mieux maintenant ?
+- Mais ça va mieux maintenant, non ?
 - Ah, ouais. Mais c'est grâce à ce déménagement.
 
 327
@@ -1569,13 +1569,13 @@ Je vois.
 
 328
 00:27:23,390 --> 00:27:26,540
-Maintenant, on se parle
-et on ne se voit plus si souvent.
+Maintenant, on parle
+et puis on ne se voit plus si souvent.
 
 329
 00:27:26,540 --> 00:27:30,660
 Elle ne se permet plus ce
-qu'elle se permettait avant.
+qu'elle se permettait avant envers moi.
 
 330
 00:27:31,200 --> 00:27:37,260
@@ -1765,12 +1765,12 @@ On volait des clopes à ma mère.
 
 369
 00:30:14,070 --> 00:30:18,450
-- C'est un bon apprentissage.
+- Ouais, pas mal, pour commencer.
 - Les miennes étaient plutôt classes.
 
 370
 00:30:18,460 --> 00:30:22,720
-Maman faisait gaffe à ces choses.
+Ma mère se souciat de ce genre de choses.
 Elle fumait des bonnes cigarettes.
 
 371
@@ -1849,7 +1849,7 @@ Des exercices de respiration.
 
 387
 00:31:32,270 --> 00:31:35,810
-- Inspirer et expirer par le nez ?
+- Expirer et inspirer la fumée par le nez ?
 - Attends, j'essaie.
 
 388
@@ -1883,7 +1883,7 @@ Tu sais faire le tigre ?
 394
 00:31:58,500 --> 00:32:01,700
 Oui, je sais.
-Mon tonton en est spécialiste.
+Mon oncle le faisait tout le temps.
 
 395
 00:32:07,090 --> 00:32:09,360
@@ -1896,7 +1896,7 @@ Mais non... Ça y est, ça y est !
 
 397
 00:32:15,360 --> 00:32:16,780
-Tu ne sens rien après.
+Tu ne sens rien après en tout cas.
 
 398
 00:32:16,920 --> 00:32:22,090
@@ -1980,8 +1980,8 @@ Tiens, c'est quoi cette photo ?
 
 415
 00:34:06,060 --> 00:34:08,380
-- C'est maman.
-- Ta maman ?
+- C'est ma mère.
+- Ta mère ?
 
 416
 00:34:10,940 --> 00:34:14,270
@@ -2038,7 +2038,7 @@ Moi, j'avais des magazines pour les filles.
 
 427
 00:35:13,940 --> 00:35:19,660
-- T'en a parlé, toi, avec ton père ?
+- T'en as parlé, toi, avec ton père ?
 - Ben mes parents ont divorcé...
 
 428
@@ -2085,7 +2085,7 @@ C'est vrai que c'est affreux.
 
 437
 00:36:15,340 --> 00:36:19,300
-Il t'a au moins dit "salut"
+Il t'a au moins dit "au revoir"
 avant de partir, Petr ?
 
 438
@@ -2222,7 +2222,7 @@ Vas-y, joue.
 467
 00:39:37,120 --> 00:39:42,400
 Je me moque de moi-même.
-Et tout ce que je veux, c'est de l'amour.
+Et tout ce que je veux, c'est un peu d'amour.
 
 468
 00:39:43,620 --> 00:39:44,800
@@ -2283,7 +2283,7 @@ C'est important, ça.
 480
 00:43:52,800 --> 00:43:56,240
 Si je le lui joue, tu penses
-qu'il s'en apercevra ?
+qu'il le ressentira ?
 
 481
 00:43:56,770 --> 00:43:59,730
@@ -2358,16 +2358,16 @@ Ne pas s'engager. Ça peut paraître con.
 
 496
 00:45:23,900 --> 00:45:27,300
-En réalité, les gens cachent...
+En réalité, les gens disent ça pour cacher...
 
 497
 00:45:30,580 --> 00:45:33,020
-leur usure sentimentale.
+leur incapacité sentimentale.
 
 498
 00:45:34,160 --> 00:45:39,040
-- Enfin, je veux pas dire...
-- Moi non plus, je veux pas dire...
+- Enfin, c'est pas ce que je veux dire...
+- Moi non plus, c'est pas ce que je veux dire...
 
 499
 00:45:39,800 --> 00:45:43,400
@@ -2468,7 +2468,7 @@ Je dois mettre mon pyje.
 
 519
 00:47:52,200 --> 00:47:54,820
-- Ne me regarde pas.
+- Faut pas regarder.
 - T'inquiète.
 
 520
